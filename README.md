@@ -1,1 +1,2 @@
-# sveltekit-blog-sveltekit-tutorial-4
+# sveltekit-blog-tutorial-4
+Video link: https://youtu.be/6lNrvFSRmwY
